@@ -1,0 +1,22 @@
+* {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+  scroll-padding-top: 90px;
+}
+
+body {
+  margin: 0;
+  width: 100%;
+  min-width: 320px;
+  font-family: Arial, Helvetica, sans-serif;
+  color: #111e33;
+  background: #f2f5fa;
+}
+
+#root {
+  width: 100%;
+  min-height: 100vh;
+}
